@@ -1,7 +1,7 @@
 # 小说影音系统
 # **项目技术**
 
-- 前端技术：Vue, vuex, element-plus, node
+- 前端技术：Vue, vuex, element-plus, node, axios
 - 后端技术：Spring Boot, Mybatis-plus(大佬可改为Spring Jpa Data), elasticsearch
 - 开发环境：Vue 3.0, Java 13, MySQL 5.7, Maven 3.6
 
