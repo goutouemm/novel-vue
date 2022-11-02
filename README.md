@@ -1,6 +1,7 @@
 # 项目进程
 - 项目没有使用 Thymeleaf 模板引擎,或是jsp + servlet这种老技术，
 - 采用了 vue + spring boot 前后端分离架构
+- 前端页面修改的话要用饿了么UI-plus, Vue 3.x 不支持 element-ui 的引用
 
 # 小说影音系统
 # **项目技术**
