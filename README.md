@@ -1,12 +1,12 @@
 # 项目进程
-前端采用了Vue 3.x + 饿了么UI-plus编写，后端采用Spring Boot 2 + 通用Mapper(Mybatis)
-本人没学过Vue，所以项目进展特特特别缓慢
+- 项目没有使用 Thymeleaf 模板引擎,或是jsp + servlet这种老技术，
+- 采用了 vue + spring boot 前后端分离架构
 
 # 小说影音系统
 # **项目技术**
 
 - 前端技术：Vue, vuex, element-plus, node, axios
-- 后端技术：Spring Boot, Spring Security, Mybatis-plus(大佬可改为Spring Jpa Data), elasticsearch, redis
+- 后端技术：Spring Boot, Spring Security, Mybatis-plus(大佬可改为Spring Jpa Data), elasticsearch, redis 大佬可加一些Spring cloud, dubbo, spring cloud alibaba微服务框架
 - 开发环境：Java 13, MySQL 5.7, Maven 3.8, IDEA 2021
 
 # **项目模块**
