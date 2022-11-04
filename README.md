@@ -2,15 +2,12 @@
 
 ## 项目进程
 
-- 项目没有使用 Thymeleaf 模板引擎,或是jsp + servlet这种老技术，
-- 采用了 vue + spring boot 前后端分离架构
-- 前端采用了响应式布局，pc,phone,pad的布局都是差不多的
-- 因为用的是vue3 导致vue2的自适应，走马灯轮播图等组件行不通，移动端比例就会很奇怪
-- 前端页面修改的话要用 饿了么UI-plus, Vue 3.x不支持 element-ui 的引用
+- 项目后端没有使用 Thymeleaf 模板引擎,或是jsp + servlet这种老技术，采用了 vue + spring boot 前后端分离架构
+- 因为只学过html,css,bootstrap这些基础, 对vue3并不了解, 写出来也就是花架子, 看起来并不美观，后来才发现vue3版本迭代 自适应，走马灯轮播图等组件在vue3行不通，导致移动端比例就会很奇怪
 
 ## **项目技术**
 
-- 前端技术：Vue, vuex, element-plus, node, axios
+- 前端技术：Vue, vuex, element-plus, axios
 - 后端技术：Spring Boot, Spring Security, Mybatis-plus(大佬可改为Spring Jpa Data),pagehelper分页插件 elasticsearch, redis   大佬可加一些Spring cloud, dubbo, spring cloud alibaba微服务框架
 - 开发环境：Java 13, MySQL 5.7, Maven 3.8, IDEA
 
