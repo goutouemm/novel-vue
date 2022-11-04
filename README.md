@@ -2,9 +2,8 @@
 
 ## 项目进程
 
-- 项目后端没有使用 Thymeleaf 模板引擎,或是jsp + servlet这种老技术，采用了 vue + spring boot 前后端分离架构
-- 因为只学过html,css,bootstrap这些基础, 对vue3并不了解, 写出来也就是花架子, 看起来并不美观，后来才发现vue3版本迭代 自适应，走马灯轮播图等组件在vue3行不通，导致移动端比例就会很奇怪
-
+- 项目后端没有使用 Thymeleaf 模板引擎,或是jsp + servlet这种十年前的老技术，采用了 vue + spring boot 前后端分离架构
+- 因为只学过html,css,bootstrap这些基础, 对vue3并不了解, 写出来也就是花架子, 看起来并不美观，后来才发现vue3版本迭代 自适应，走马灯轮播图等组件在vue3行不通，导致移动端比例就会很奇怪, 所以在布局的时候, 直接把导航栏写到了 饿了么 Drawer抽屉 组件 里.
 ## **项目技术**
 
 - 前端技术：Vue, vuex, element-plus, axios
