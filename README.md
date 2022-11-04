@@ -10,8 +10,8 @@
 ## **项目技术**
 
 - 前端技术：Vue, vuex, element-plus, node, axios
-- 后端技术：Spring Boot, Spring Security, Mybatis-plus(大佬可改为Spring Jpa Data), elasticsearch, redis   大佬可加一些Spring cloud, dubbo, spring cloud alibaba微服务框架
-- 开发环境：Java 13, MySQL 5.7, Maven 3.8, IDEA 2021
+- 后端技术：Spring Boot, Spring Security, Mybatis-plus(大佬可改为Spring Jpa Data),pagehelper分页插件 elasticsearch, redis   大佬可加一些Spring cloud, dubbo, spring cloud alibaba微服务框架
+- 开发环境：Java 13, MySQL 5.7, Maven 3.8, IDEA
 
 ## **项目模块**
 
