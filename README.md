@@ -5,6 +5,7 @@
 - 项目没有使用 Thymeleaf 模板引擎,或是jsp + servlet这种老技术，
 - 采用了 vue + spring boot 前后端分离架构
 - 前端采用了响应式布局，pc,phone,pad的布局都是差不多的
+- 因为用的是vue3 导致vue2的自适应，走马灯轮播图等组件行不通，移动端比例就会很奇怪
 - 前端页面修改的话要用 饿了么UI-plus, Vue 3.x不支持 element-ui 的引用
 
 ## **项目技术**
