@@ -1,4 +1,6 @@
-# NovelSystem
+# novel-vue
+
+**后端地址:** https://github.com/goutouemm/novel-Java
 
 ## 项目进程
 
